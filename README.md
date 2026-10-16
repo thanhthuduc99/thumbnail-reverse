@@ -6,10 +6,6 @@ Skill cho Claude Code: đưa link 1 kênh YouTube và ảnh mặt của bạn, C
 
 15 thumbnail trên làm trong khoảng 1 tiếng rưỡi, học từ 15 video mới nhất của kênh [Ben AI](https://www.youtube.com/@BenAI92). Mặt là ảnh thật của tác giả, logo tải từ App Store và Wikimedia Commons, UI crop từ chính video.
 
-So 3 cặp, bên trái là thumbnail gốc của Ben AI, bên phải là bản mới:
-
-![3 cặp so sánh: thumbnail gốc của Ben AI bên trái, bản làm bằng skill bên phải](docs/media/before-after.jpg)
-
 ## Làm được gì
 
 - Tải N thumbnail mới nhất của 1 kênh (bỏ qua Shorts) và ghép sheet để Claude đọc 1 lần.
@@ -104,7 +100,7 @@ references/
 
 ## Ghi chú
 
-- Kênh mẫu chỉ dùng để học bố cục và luật. Repo không chứa ảnh gốc của kênh mẫu, trừ 3 thumbnail của Ben AI trong ảnh so sánh ở trên. Thumbnail mới không dùng lại chữ, ảnh hay mặt của kênh mẫu.
+- Kênh mẫu chỉ dùng để học bố cục và luật. Repo không chứa ảnh gốc của kênh mẫu. Thumbnail mới không dùng lại chữ, ảnh hay mặt của kênh mẫu.
 - Chỉ dùng ảnh mặt của chính bạn hoặc người đã đồng ý.
 - Logo và tên sản phẩm thuộc về chủ sở hữu của chúng.
 - 15 thumbnail trong `docs/media/` có mặt thật của tác giả, chỉ để minh hoạ.
