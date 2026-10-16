@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+# project output when the skill is run inside this folder
+refs/
+faces/
+frames/
+out/
+assets/
+prompts/
+*.log
